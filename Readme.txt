@@ -1,5 +1,3 @@
-![alt text](![alt text](https://github.com/huafeng111/object-detection-of-satrs/blob/main/object%20detection%20of%20stars/example.png))
 
-
-<img src="https://github.com/huafeng111/object-detection-of-satrs/blob/main/object%20detection%20of%20stars/example.png" alt="Alt text" title="Optional title">
-<td><img src="object-detection-of-satrs/example.png"     width="360" alt="depth"></td>
+For the project we need to use neural model to detect the stars in the image, the difficult part is how to deal with the rotation loss.
+you can see the example.png to see the piture :)
